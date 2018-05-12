@@ -1,0 +1,47 @@
+_repo: Dry-Fish-and-WetTales-from-a-Norwegian-Seaport_35918
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Worster, W. J. Alexander (William John Alexander)
+    aliases:
+    - Worster, W. W.
+    - Worster, William W.
+    - Worster, William John Alexander
+    birthdate: 1882
+    deathdate: 1929
+    gutenberg_agent_id: '2514'
+    url: http://www.gutenberg.org/2009/agents/2514
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nilsen, Anthon Bernhard Elias
+    aliases:
+    - Kræmmer, Elias
+    - Kraemmer, Elias
+    birthdate: 1855
+    deathdate: 1936
+    gutenberg_agent_id: '37993'
+    url: http://www.gutenberg.org/2009/agents/37993
+    wikipedia: http://en.wikipedia.org/wiki/Anthon_B._Nilsen
+description: ''
+gutenberg_issued: '2011-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35918'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Norway -- Social life and customs -- Fiction'
+- !lcsh 'City and town life -- Fiction'
+tableOfContents: The town -- Knut G. Holm -- Bramsen -- Hermansen of the bank -- Mrs.
+  Rantzau's story -- "Rebecca and the camels" -- Holm & Son -- Malla Trap -- Clapham
+  Junction -- The ship comes home -- The concert -- Old Nick -- Cilia -- A royal visit
+  -- Peter Oiland -- Emilie Rantzau -- The Eva Maria -- The Henrik Ibsen -- Nils Petter's
+  legacy -- The admiral -- Dirrik.
+title: 'Dry Fish and Wet: Tales from a Norwegian Seaport'
+url: http://www.gutenberg.org/ebooks/35918
