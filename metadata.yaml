@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37993
     wikipedia: http://en.wikipedia.org/wiki/Anthon_B._Nilsen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35918#Dry-Fish-and-WetTales-from-a-Norwegian-Seaport
 gutenberg_issued: '2011-04-22'
 gutenberg_type: Text
 identifiers:
